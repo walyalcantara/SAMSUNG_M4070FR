@@ -1,29 +1,29 @@
-M4070FR
+# M4070FR
 
-Samsung M4070FR Multifunction Laser Printer
+:printer: - Samsung M4070FR Multifunction Laser Printer
 
-Author:
+## Author:
       Waly Alcântara
       
-Macros used:
+## Macros used:
       There are no macros links in this template.
 
-Template links:
+## Template links:
       There are no template links in this template.
 
-Discovery rules:
+## Discovery rules:
       There are no discovery rules in this template.
 
-Graphic:
+## Graphic:
       Black Toner Printed Pages
       Black Toner Level
 
-Triggers:
-      Black Toner Almost Empty - 10% de toner.
-      Black Toner Empty - 3% de toner.
+## Triggers:
+        Black Toner Almost Empty - 10% de toner. 
+        Black Toner Empty - 3% de toner. 
 
 
-Items collected:
+## Items collected:
       Modelo Toner
       Nivel Toner	
       Modelo Impressora	
@@ -41,5 +41,4 @@ Items collected:
       Life roller
       Tipe Paper Tray 1	
       Tipe Paper Tray 2	
-      Firmware Version
-.      
+      Firmware Version    
